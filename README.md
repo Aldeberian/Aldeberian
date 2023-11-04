@@ -2,6 +2,33 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+--- 
+
+# 📝 About me
+
+Student in Computer Science. I'm passionated about too much subjects.
+
+--- 
+
+# 🎨 Areas of interest
+
+- Algorithmics
+- CI/CD
+- Web
+- AI
+- Big data
+
+---
+
+# 💾 Currently working on ...
+
+- Cross-platform application based on graph theory
+
+- Discord bot using the Github API
+
+---
+
+-=============================== Feel free to contact me about anything 😎 ===============================- 
 <!--
 **Aldeberian/Aldeberian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
