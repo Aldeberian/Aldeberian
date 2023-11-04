@@ -28,7 +28,7 @@ Student in Computer Science. I'm passionated about too much subjects.
 
 ---
 
--=============================== Feel free to contact me about anything 😎 ===============================- 
+-============================= Feel free to contact me about anything 😎 =============================- 
 <!--
 **Aldeberian/Aldeberian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
