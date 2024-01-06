@@ -24,7 +24,7 @@ Student in Computer Science. I'm passionated about too much subjects.
 
 - Cross-platform application based on graph theory
 
-- Discord bot using the Github API
+- Algorithms and data structures
 
 ---
 
