@@ -22,9 +22,7 @@ Student in Computer Science. I'm passionated about too much subjects.
 
 # 💾 Currently working on ...
 
-- Cross-platform application based on graph theory
-
-- Algorithms and data structures
+- Webapps in Laravel
 
 ---
 
